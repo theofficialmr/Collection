@@ -1,0 +1,274 @@
+[
+  {
+    "id" : "A4119F57-FBA9-4555-A6DE-28F177966CA7",
+    "isEnabled" : true,
+    "sortOrder" : 5,
+    "source" : {
+      "group" : {
+        "_0" : {
+          "contentSources" : [
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/tinted\/appletv-wide-tinted.png",
+              "hideTitle" : false,
+              "id" : "1B1F7666-D608-46D0-A0D1-B1EED87FBF98",
+              "sources" : [
+                {
+                  "tmdbDiscover" : {
+                    "_0" : {
+                      "companies" : [
+
+                      ],
+                      "excludeGenres" : [
+
+                      ],
+                      "genres" : [
+
+                      ],
+                      "keywords" : [
+
+                      ],
+                      "mediaType" : "tv",
+                      "name" : "Apple TV+",
+                      "networks" : [
+                        2552
+                      ],
+                      "sortBy" : "popularity.desc"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Apple TV+"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/tinted\/netflixred-wide-tinted.png",
+              "hideTitle" : false,
+              "id" : "2684F49B-1FBF-4734-B78B-612B71D639D9",
+              "sources" : [
+                {
+                  "tmdbDiscover" : {
+                    "_0" : {
+                      "companies" : [
+
+                      ],
+                      "excludeGenres" : [
+
+                      ],
+                      "genres" : [
+
+                      ],
+                      "keywords" : [
+
+                      ],
+                      "mediaType" : "tv",
+                      "name" : "Netflix",
+                      "networks" : [
+                        213
+                      ],
+                      "sortBy" : "popularity.desc"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Netflix"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/tinted\/primevideo-wide-tinted.png",
+              "hideTitle" : false,
+              "id" : "3EE4B04E-36AE-408F-BD0D-285F59C3CD64",
+              "sources" : [
+                {
+                  "tmdbDiscover" : {
+                    "_0" : {
+                      "companies" : [
+
+                      ],
+                      "excludeGenres" : [
+
+                      ],
+                      "genres" : [
+
+                      ],
+                      "keywords" : [
+
+                      ],
+                      "mediaType" : "tv",
+                      "name" : "Prime Video",
+                      "networks" : [
+                        1024
+                      ],
+                      "sortBy" : "popularity.desc"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Prime Video"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/tinted\/hbomax-wide-tinted.png",
+              "hideTitle" : false,
+              "id" : "8B9837A3-5D6A-4B8F-8F2D-2FC07C491790",
+              "sources" : [
+                {
+                  "tmdbDiscover" : {
+                    "_0" : {
+                      "companies" : [
+
+                      ],
+                      "excludeGenres" : [
+
+                      ],
+                      "genres" : [
+
+                      ],
+                      "keywords" : [
+
+                      ],
+                      "mediaType" : "tv",
+                      "name" : "HBO Max",
+                      "networks" : [
+                        49,
+                        3186
+                      ],
+                      "sortBy" : "popularity.desc"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "HBO Max"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/tinted\/disney-wide-tinted.png",
+              "hideTitle" : false,
+              "id" : "8E9A239A-19D5-4870-B32D-7EB90BC9A71C",
+              "sources" : [
+                {
+                  "tmdbDiscover" : {
+                    "_0" : {
+                      "companies" : [
+
+                      ],
+                      "excludeGenres" : [
+
+                      ],
+                      "genres" : [
+
+                      ],
+                      "keywords" : [
+
+                      ],
+                      "mediaType" : "tv",
+                      "name" : "Disney+",
+                      "networks" : [
+                        2739
+                      ],
+                      "sortBy" : "popularity.desc"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Disney+"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/tinted\/paramount-wide-tinted.png",
+              "hideTitle" : false,
+              "id" : "AF9AEBA1-9485-45D2-9362-BD9DE161D6DB",
+              "sources" : [
+                {
+                  "tmdbDiscover" : {
+                    "_0" : {
+                      "companies" : [
+
+                      ],
+                      "excludeGenres" : [
+
+                      ],
+                      "genres" : [
+
+                      ],
+                      "keywords" : [
+
+                      ],
+                      "mediaType" : "tv",
+                      "name" : "Paramount+",
+                      "networks" : [
+                        4330
+                      ],
+                      "sortBy" : "popularity.desc"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Paramount+"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/wide\/rdnoni\/tinted\/discoveryplus-wide-tinted.png",
+              "hideTitle" : false,
+              "id" : "1FF9C124-30BD-47A4-A3D9-FB63EB433C22",
+              "sources" : [
+                {
+                  "tmdbDiscover" : {
+                    "_0" : {
+                      "companies" : [
+
+                      ],
+                      "excludeGenres" : [
+
+                      ],
+                      "genres" : [
+
+                      ],
+                      "keywords" : [
+
+                      ],
+                      "mediaType" : "tv",
+                      "name" : "Discovery+",
+                      "networks" : [
+                        4353
+                      ],
+                      "sortBy" : "popularity.desc"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Discovery+"
+            },
+            {
+              "coverImageURL" : "https:\/\/i.postimg.cc\/xTs8TXgz\/90A3B870-B692-42EF-9DD3-47C3FB3D3109.png",
+              "hideTitle" : false,
+              "id" : "D8E9C797-28BA-46A1-820B-1A82AD4D7C26",
+              "sources" : [
+                {
+                  "traktList" : {
+                    "_0" : {
+                      "isPublic" : true,
+                      "itemCount" : 74,
+                      "listId" : "23235051",
+                      "listName" : "MGM+ Originals",
+                      "listSlug" : "mgm-originals",
+                      "username" : "crossoverenserie"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "MGM+"
+            }
+          ],
+          "coverFillsHero" : true,
+          "hideTitle" : true,
+          "tileShape" : "poster",
+          "title" : "Streaming Services"
+        }
+      }
+    },
+    "style" : "collections_row",
+    "title" : "Streaming Services"
+  }
+]
